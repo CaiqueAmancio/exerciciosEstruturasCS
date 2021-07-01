@@ -1,0 +1,16 @@
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\bin\Debug\net5.0\exercicio1For.exe
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\bin\Debug\net5.0\exercicio1For.deps.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\bin\Debug\net5.0\exercicio1For.runtimeconfig.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\bin\Debug\net5.0\exercicio1For.runtimeconfig.dev.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\bin\Debug\net5.0\exercicio1For.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\bin\Debug\net5.0\ref\exercicio1For.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\bin\Debug\net5.0\exercicio1For.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\obj\Debug\net5.0\exercicio1For.csprojAssemblyReference.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\obj\Debug\net5.0\exercicio1For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\obj\Debug\net5.0\exercicio1For.AssemblyInfoInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\obj\Debug\net5.0\exercicio1For.AssemblyInfo.cs
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\obj\Debug\net5.0\exercicio1For.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\obj\Debug\net5.0\exercicio1For.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\obj\Debug\net5.0\ref\exercicio1For.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\obj\Debug\net5.0\exercicio1For.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaFor\exercicio1For\exercicio1For\obj\Debug\net5.0\exercicio1For.genruntimeconfig.cache
